@@ -102,6 +102,11 @@ git clone https://github.com/NATASHA-ct/renewables-ninja-solar-wind-analysis.git
 cd renewables-ninja-solar-wind-analysis
 ```
 
+Create a .env file in the root folder and add your token:
+NINJA_TOKEN=your_token_here
+
+Please add your .env file to your .gitignore file so it is never pushed to github.
+
 ### Install
 
 Install all dependencies:
